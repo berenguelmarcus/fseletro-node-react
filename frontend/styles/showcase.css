@@ -1,0 +1,25 @@
+.list-categories {
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+}
+
+.showcase {
+    display: inline-block;
+    vertical-align: top;
+    width: 85%;
+}
+
+.box-product {
+    width: 16rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img-box {
+    width: 240px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
